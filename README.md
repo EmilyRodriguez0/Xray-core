@@ -147,3 +147,6 @@ make
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/XTLS/Xray-core.svg)](https://starchart.cc/XTLS/Xray-core)
+
+## My first study program
+Starts July 16, 2024
